@@ -1,0 +1,30 @@
+.navbar-main{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    
+}
+.navbar-main img{
+    width:15rem;
+}
+
+.headings ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    user-select: none;
+    font-weight: bold;
+
+
+    width: 60rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.select:hover{
+    color:rgb(0,135,189);
+    
+}

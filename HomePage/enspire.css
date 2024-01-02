@@ -1,0 +1,70 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
+.video-section video{
+    position: absolute;
+   
+    top:6rem;
+    left: 9rem;
+    width: 75rem;
+    height: 20rem;
+    object-fit: cover;
+    overflow: hidden;
+    user-select: none;
+    
+    
+}
+
+.video-copy{
+    position: absolute;
+     /* top: 35vh; */
+    top:6rem;
+    left:9rem; 
+     display: flex;
+    align-items:center;
+   
+    width: 75rem;
+    height: 20rem;
+    margin: 0;
+    font-weight: 900 !important;
+    font-size: 19vw !important;
+    text-transform: uppercase;
+    background-color:rgb(0,0,0);
+    user-select: none;
+    mix-blend-mode: multiply;
+
+}
+h1{
+    font-family: "Saira Stencil One", cursive!important;
+    color: white;
+    
+}
+
+
+p {
+    top:30rem;
+    left:9.5rem;
+    font-size: 4rem;
+    text-align: center;
+    /* color: black;
+     */
+     color: white;
+    margin: 0;
+    line-height: 0;
+    position: absolute;
+    
+ }
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
